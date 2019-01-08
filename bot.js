@@ -999,7 +999,7 @@ client.on('message', message => {
      let embed = new Discord.RichEmbed()
   .setAuthor(message.author.username)
   .setColor("#8650a7")
-  .addField("Check Your DM !" , "Canon Bot©")
+  .addField("Check Your DM !" , "SHADOW")
   message.channel.sendEmbed(embed);
     }
 });
@@ -1012,7 +1012,7 @@ client.on('message', message => {
      let embed = new Discord.RichEmbed()
   .setAuthor(message.author.username)
   .setColor("#8650a7")
-  .addField("Done" , "Canon Bot©")
+  .addField("Done" , "SHADOW")
   message.channel.sendEmbed(embed);
     }
 });
